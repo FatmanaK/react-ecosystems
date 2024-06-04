@@ -1,0 +1,5 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
+
+//babel will use both of these presets to transform our code into something a browser can run

@@ -4,8 +4,8 @@ import './App.css';
 
 const App = () => (
     <div className="App">
-        <h1>Hello, mars!!!!</h1>
+        <h1>Hello, World!!!!</h1>
     </div>
 );
 
-export default hot(module)(App); //add any changes without refresh browser
+export default hot(module)(App);
